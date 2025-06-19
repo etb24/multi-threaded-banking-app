@@ -30,7 +30,7 @@ This is a simple Java-based multithreaded banking simulation. It models the inte
 
 ## Features
 
-- Multi-threaded execution using Java `Thread` class and Java Semaphores
+- Multi-threaded execution using Java `Thread` class and Java `Semaphores`
 - Synchronized access to shared resources
 - Client-server architecture via simulated network buffers
 
